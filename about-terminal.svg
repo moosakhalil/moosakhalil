@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="296" viewBox="0 0 800 296" role="img" aria-label="Terminal: Muhammad Moosa Khalil, Full Stack Software Engineer. Stack: Next.js, React, TypeScript, Node.js, PostgreSQL. Open to Full Stack, Software Engineering and AI-driven product roles.">
+<style>
+.t{font-family:'Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:15px}
+.g{fill:#9ECE6A}.b{fill:#7AA2F7}.p{fill:#BB9AF7;font-weight:700}.w{fill:#C0CAF5}
+.cv{fill:#1A1B27}
+.dot{animation:pulse 1.6s ease-in-out infinite}
+.blink{animation:blink 1s steps(1) infinite}
+.cur{animation:show 16s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+@keyframes blink{50%{opacity:0}}
+@keyframes show{0%,73.125%{opacity:0}73.438%,95%{opacity:1}95.01%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cv{display:none}.dot,.blink,.cur{animation:none}.cur{opacity:1}}
+.c0{animation:c0 16s infinite;animation-timing-function:steps(8)}
+@keyframes c0{0%,3.125%{transform:translateX(0)}8.125%,95%{transform:translateX(86px)}95.01%,100%{transform:translateX(0)}}
+.c1{animation:c1 16s infinite;animation-timing-function:steps(52)}
+@keyframes c1{0%,9.375%{transform:translateX(0)}23.75%,95%{transform:translateX(490px)}95.01%,100%{transform:translateX(0)}}
+.c2{animation:c2 16s infinite;animation-timing-function:steps(15)}
+@keyframes c2{0%,26.25%{transform:translateX(0)}33.125%,95%{transform:translateX(150px)}95.01%,100%{transform:translateX(0)}}
+.c3{animation:c3 16s infinite;animation-timing-function:steps(51)}
+@keyframes c3{0%,34.375%{transform:translateX(0)}47.5%,95%{transform:translateX(481px)}95.01%,100%{transform:translateX(0)}}
+.c4{animation:c4 16s infinite;animation-timing-function:steps(16)}
+@keyframes c4{0%,50%{transform:translateX(0)}57.5%,95%{transform:translateX(159px)}95.01%,100%{transform:translateX(0)}}
+.c5{animation:c5 16s infinite;animation-timing-function:steps(48)}
+@keyframes c5{0%,58.75%{transform:translateX(0)}71.25%,95%{transform:translateX(474px)}95.01%,100%{transform:translateX(0)}}
+</style>
+<rect x="1" y="1" width="798" height="294" rx="12" fill="#1A1B27"/>
+<rect x="1" y="1" width="798" height="36" rx="12" fill="#24283B"/>
+<rect x="1" y="24" width="798" height="13" fill="#24283B"/>
+<circle cx="24" cy="19" r="6" fill="#F7768E"/><circle cx="44" cy="19" r="6" fill="#E0AF68"/><circle cx="64" cy="19" r="6" fill="#9ECE6A"/>
+<text x="400" y="24" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#7982A9">moosa@portfolio: ~</text>
+<text class="t" x="40" y="86" xml:space="preserve"><tspan class="g">$</tspan><tspan class="b"> whoami</tspan></text>
+<text class="t" x="40" y="116" xml:space="preserve"><tspan class="p">Muhammad Moosa Khalil</tspan><tspan class="w"> — Full Stack Software Engineer</tspan></text>
+<text class="t" x="40" y="146" xml:space="preserve"><tspan class="g">$</tspan><tspan class="b"> cat stack.txt</tspan></text>
+<text class="t" x="40" y="176" xml:space="preserve"><tspan class="w">Next.js · React · TypeScript · Node.js · PostgreSQL</tspan></text>
+<text class="t" x="40" y="206" xml:space="preserve"><tspan class="g">$</tspan><tspan class="b"> cat status.txt</tspan></text>
+<text class="t" x="60" y="236" xml:space="preserve"><tspan class="w">Open to Full Stack, SE &amp; AI-driven product roles</tspan></text>
+<circle class="dot" cx="46" cy="231" r="4.5" fill="#9ECE6A"/>
+<rect class="cv c0" x="36" y="67" width="720" height="26"/>
+<rect class="cv c1" x="36" y="97" width="720" height="26"/>
+<rect class="cv c2" x="36" y="127" width="720" height="26"/>
+<rect class="cv c3" x="36" y="157" width="720" height="26"/>
+<rect class="cv c4" x="36" y="187" width="720" height="26"/>
+<rect class="cv c5" x="36" y="217" width="720" height="26"/>
+<g class="cur"><text class="t g" x="40" y="266">$</text><rect class="blink" x="58" y="252" width="9" height="18" fill="#7AA2F7"/></g>
+<rect x="1" y="1" width="798" height="294" rx="12" fill="none" stroke="#3B4261" stroke-width="1.5"/>
+</svg>

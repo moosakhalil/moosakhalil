@@ -8,11 +8,21 @@
 <a href="https://www.linkedin.com/in/moosadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:moosamughal21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="./assets/award-banner.svg" width="100%" alt="Appreciation Award (HealthSync, NUST COMPPEC 2026) and 3rd Position (Bahria University FYP Open House 2026)" />
+
 </div>
 
 ---
 
 ## About Me
+
+<div align="center">
+  <img src="./assets/about-terminal.svg" width="100%" alt="Terminal card: Muhammad Moosa Khalil, Full Stack Software Engineer, open to roles" />
+</div>
+
+<br/>
 
 I'm a Software Engineer who builds production-ready web applications end to end, from database design and REST APIs to responsive, user-focused interfaces.
 
@@ -29,6 +39,15 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 
 ## Tech Stack
 
+<div align="center">
+  <img src="./assets/skills-marquee.svg" width="100%" alt="Skills: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel, Claude Code, Cursor" />
+</div>
+
+<details>
+<summary><b>View full stack with logos</b></summary>
+
+<br/>
+
 | Category | Technologies |
 |---|---|
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
@@ -37,6 +56,8 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 | **Databases & BaaS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 | **AI Development** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
+
+</details>
 
 ---
 
@@ -57,19 +78,29 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 
 ## Experience
 
-**Full Stack Software Developer** · Remote Client Projects
-<br/><sub>November 2025 – Present</sub>
+<details open>
+<summary><b>Full Stack Software Developer</b> · Remote Client Projects · <i>Nov 2025 – Present</i></summary>
+
+<br/>
+
 - Develop and maintain production ERP, e-commerce, and laundry management applications
 - Design database schemas and build scalable REST APIs with responsive frontends
 - Implement authentication, role-based access control, business workflows, and third-party integrations
 - Own features from development through production deployment
 - Work directly with clients through iterative feedback and delivery cycles
 
-**Software Development Intern** · Jazba Innovations, Islamabad
-<br/><sub>July 2025 – August 2025</sub>
+</details>
+
+<details>
+<summary><b>Software Development Intern</b> · Jazba Innovations, Islamabad · <i>Jul 2025 – Aug 2025</i></summary>
+
+<br/>
+
 - Integrated Webpack and Tailwind CSS into the frontend development pipeline
 - Contributed through Git pull requests and code reviews
 - Collaborated with cross-functional teams using Agile/Scrum practices
+
+</details>
 
 ---
 
@@ -86,9 +117,12 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake.svg" width="100%" />
+  </picture>
   <br/><br/>
-  <img width="100%" src="https://github.pumbas.net/api/contributions/moosakhalil?days=180&colour=70A5FD&bgColour=1A1B27&dotColour=BF91F3&borderRadius=6" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
