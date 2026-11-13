@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:70A5FD&height=220&section=header&text=Muhammad%20Moosa%20Khalil&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=56" alt="Header" />
+
 <div align="center">
 
-# Muhammad Moosa Khalil
-
-**Full Stack Software Engineer · Next.js · Node.js · AI-Integrated Applications**
+<a href="https://github.com/moosakhalil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=620&lines=Building+production+ERP+and+e-commerce+systems;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+deployed+products;Exploring+Agentic+AI+and+AI-driven+development" alt="Typing SVG" /></a>
 
 <a href="https://moosa-khalil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/moosadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -79,7 +79,7 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 |---|---|---|
 | Appreciation Award — HealthSync | NUST COMPPEC | 2026 |
 | 3rd Position — Final Year Project Open House | Bahria University | 2026 |
-| Generative AI: Beyond the Chatbot | Google | 2025 |
+| Generative AI: Beyond the Chatbot | Google | — |
 
 ---
 
@@ -91,8 +91,10 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
   <img width="100%" src="https://github.pumbas.net/api/contributions/moosakhalil?days=180&colour=70A5FD&bgColour=1A1B27&dotColour=BF91F3&borderRadius=6" alt="Contribution Graph" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <i>Building products. Solving problems. Continuously learning.</i>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:3B4261,100:1A1B27&height=120&section=footer&animation=twinkling" alt="Footer" />
