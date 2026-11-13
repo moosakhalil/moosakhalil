@@ -138,10 +138,7 @@ A laundry services management application designed to streamline customer-facing
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=moosakhalil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=moosakhalil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
