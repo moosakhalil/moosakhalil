@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./assets/award-banner.svg" width="100%" alt="Appreciation Award (HealthSync, NUST COMPPEC 2026) and 3rd Position (Bahria University FYP Open House 2026)" />
+<img src="./award-banner.svg" width="100%" alt="Appreciation Award (HealthSync, NUST COMPPEC 2026) and 3rd Position (Bahria University FYP Open House 2026)" />
 
 </div>
 
@@ -19,7 +19,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./assets/about-terminal.svg" width="100%" alt="Terminal card: Muhammad Moosa Khalil, Full Stack Software Engineer, open to roles" />
+  <img src="./about-terminal.svg" width="100%" alt="Terminal card: Muhammad Moosa Khalil, Full Stack Software Engineer, open to roles" />
 </div>
 
 <br/>
@@ -40,7 +40,7 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 ## Tech Stack
 
 <div align="center">
-  <img src="./assets/skills-marquee.svg" width="100%" alt="Skills: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel, Claude Code, Cursor" />
+  <img src="./skills-marquee.svg" width="100%" alt="Skills: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel, Claude Code, Cursor" />
 </div>
 
 <details>
