@@ -110,7 +110,7 @@ Since November 2025, I've been delivering **ERP, e-commerce, and laundry managem
 |---|---|---|
 | Appreciation Award — HealthSync | NUST COMPPEC | 2026 |
 | 3rd Position — Final Year Project Open House | Bahria University | 2026 |
-| Generative AI: Beyond the Chatbot | Google | — |
+| Generative AI: Beyond the Chatbot | Google | 2025 |
 
 ---
 
