@@ -36,13 +36,29 @@ I build production-ready web applications end to end, from database design and R
 
 <sub>Some client projects are private or covered by NDA.</sub>
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake-dark.svg">
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moosakhalil&theme=github-dark&hide_border=true">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=moosakhalil&theme=default&hide_border=true" />
+  </picture>
+</p>
+
 ## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,supabase,firebase,git,vercel&perline=14" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel" />
 </p>
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Languages** | TypeScript, JavaScript, SQL, HTML5, CSS3 |
 | **Frontend** | React, Next.js, Tailwind CSS |
@@ -67,23 +83,13 @@ I build production-ready web applications end to end, from database design and R
 
 ## Education and Certifications
 
-| | | |
+| Qualification | Institution | Year |
 |---|---|---|
 | **BS Software Engineering** | Bahria University, Islamabad | 2026 |
 | **Generative AI: Beyond the Chatbot** | Google | 2025 |
 
-## GitHub Activity
+## Contact
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake-dark.svg">
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
+Open to Full Stack, Software Engineering, and AI-driven product roles.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moosakhalil&theme=github-dark&hide_border=true">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=moosakhalil&theme=default&hide_border=true" />
-  </picture>
-</p>
+[Email](mailto:moosamughal21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/moosadev/) · [Portfolio](https://moosa-khalil-portfolio.vercel.app/)
