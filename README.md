@@ -122,7 +122,7 @@ Mobile-first progressive web app for tracking income, expenses, and savings goal
 - **Google** — Generative AI: Beyond the Chatbot
 
 ---
-## GitHub Activity
+## GitHub Stats & Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -130,13 +130,7 @@ Mobile-first progressive web app for tracking income, expenses, and savings goal
   <img width="100%" src="https://github.pumbas.net/api/contributions/moosakhalil?days=180&colour=70A5FD&bgColour=1A1B27&dotColour=BF91F3&borderRadius=6" alt="Contribution Graph" />
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <i>Building products. Solving problems. Continuously learning.</i>
