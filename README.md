@@ -1,15 +1,15 @@
-<h1 align="center">Muhammad Moosa Khalil</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:70A5FD&height=200&section=header&text=Muhammad%20Moosa%20Khalil&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=56" alt="Muhammad Moosa Khalil, Full Stack Software Engineer" />
 
-<p align="center">
-  <b>Full Stack Software Engineer</b><br/>
-  Next.js · React · Node.js · PostgreSQL
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://moosa-khalil-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/moosadev/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:moosamughal21@gmail.com">moosamughal21@gmail.com</a>
-</p>
+<a href="https://github.com/moosakhalil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=620&lines=Building+production+ERP+and+e-commerce+systems;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+deployed+products;Exploring+Agentic+AI+and+AI-driven+development" alt="Building production ERP and e-commerce systems with Next.js, React, Node.js and PostgreSQL" /></a>
+
+<a href="https://moosa-khalil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/moosadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:moosamughal21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Open_to_work-16A34A?style=for-the-badge" alt="Open to work" />
+
+</div>
 
 ## About
 
@@ -93,3 +93,5 @@ I build production-ready web applications end to end, from database design and R
 Open to Full Stack, Software Engineering, and AI-driven product roles.
 
 [Email](mailto:moosamughal21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/moosadev/) · [Portfolio](https://moosa-khalil-portfolio.vercel.app/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:3B4261,100:1A1B27&height=100&section=footer&animation=twinkling" alt="" />
