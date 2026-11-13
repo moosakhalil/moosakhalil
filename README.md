@@ -1,134 +1,89 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:70A5FD&height=220&section=header&text=Muhammad%20Moosa%20Khalil&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=56" alt="Header" />
+<h1 align="center">Muhammad Moosa Khalil</h1>
 
-<div align="center">
+<p align="center">
+  <b>Full Stack Software Engineer</b><br/>
+  Next.js · React · Node.js · PostgreSQL
+</p>
 
-<a href="https://github.com/moosakhalil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=620&lines=Building+production+ERP+and+e-commerce+systems;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+deployed+products;Exploring+Agentic+AI+and+AI-driven+development" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://moosa-khalil-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moosadev/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:moosamughal21@gmail.com">moosamughal21@gmail.com</a>
+</p>
 
-<a href="https://moosa-khalil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/moosadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:moosamughal21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## About
 
-<br/><br/>
+I build production-ready web applications end to end, from database design and REST APIs to responsive, user-focused interfaces. Since November 2025, I have delivered ERP, e-commerce, and laundry management systems for clients, owning features from architecture through deployment.
 
+**Recognition**
+- **Appreciation Award**, NUST COMPPEC 2026, for HealthSync
+- **3rd Position**, Bahria University FYP Open House 2026, for HealthSync
 
+**Focus:** Full stack development with Next.js, React, TypeScript, Node.js, and PostgreSQL<br/>
+**Exploring:** Agentic AI, AI-assisted development workflows, and scalable system architecture<br/>
+**Open to:** Full Stack, Software Engineering, and AI-driven product roles
 
-</div>
+## Selected Work
 
----
-
-## About Me
-
-<div align="center">
-  <img src="./about-terminal.svg" width="100%" alt="Terminal card: Muhammad Moosa Khalil, Full Stack Software Engineer, open to roles" />
-</div>
-
-<br/>
-
-I'm a Software Engineer who builds production-ready web applications end to end, from database design and REST APIs to responsive, user-focused interfaces.
-
-Since November 2025, I've been delivering **ERP, e-commerce, and laundry management systems for clients**, taking ownership of features from architecture through deployment. My final-year project, **HealthSync**, received an Appreciation Award at NUST COMPPEC and placed 3rd at the Bahria University FYP Open House 2026.
-
-| | |
-|---|---|
-| **Focus** | Full Stack Development with Next.js, React, TypeScript, Node.js, and PostgreSQL |
-| **Exploring** | Agentic AI, AI-assisted development workflows, and scalable system architecture |
-| **Education** | BS Software Engineering, Bahria University, Islamabad (2026) |
-| **Open to** | Full Stack, Software Engineering, and AI-driven product roles |
-
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="./skills-marquee.svg" width="100%" alt="Skills: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel, Claude Code, Cursor" />
-</div>
-
-<details>
-<summary><b>View full stack with logos</b></summary>
-
-<br/>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases & BaaS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
-| **AI Development** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
-
-</details>
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack | Link |
+| Project | What it does | Stack | Link |
 |---|---|---|---|
-| **HealthSync**<br/><sub>Telehealth & Remote Patient Monitoring</sub> | Real-time heart-rate monitoring via Fitbit, patient and clinician dashboards, appointments, and AI-powered health insights. Award-winning final-year project. | Next.js, Supabase, Prisma, PostgreSQL | [Live](https://health-sync.live/) |
-| **IndoorAce**<br/><sub>Indoor Sports Booking</sub> | Cricket, futsal, and padel court reservations with real-time availability and a streamlined booking flow. | Next.js, Node.js, Prisma, Supabase, Firebase, Tailwind CSS | [Live](https://indoor-ace-nine.vercel.app/) |
-| **Footy Insights**<br/><sub>Football Analytics</sub> | Live match information, football statistics, and AI-generated insights. | React, REST APIs, Firebase, MongoDB | [Live](https://footy-insights-football.vercel.app/) |
-| **Rental Management System**<br/><sub>Car Rental Platform</sub> | Fleet management, rental agreements, invoicing, vendor payouts, expenses, payroll, and financial reporting. | React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | Client Project |
-| **Bersih Clean**<br/><sub>Laundry Management</sub> | Streamlines customer-facing laundry orders and internal operational workflows. | MongoDB, Express.js, React, Node.js | Client Project |
-| **Hisaab Kitab**<br/><sub>Personal Finance PWA</sub> | Mobile-first app for tracking income, expenses, and savings goals. | Next.js, Supabase, PWA | Personal Project |
+| **HealthSync**<br/><sub>Telehealth and remote patient monitoring</sub> | Real-time heart-rate monitoring via Fitbit, patient and clinician dashboards, appointments, and AI-powered health insights. Final-year project, award-winning. | Next.js, Supabase, Prisma, PostgreSQL | [Live](https://health-sync.live/) |
+| **IndoorAce**<br/><sub>Indoor sports booking</sub> | Cricket, futsal, and padel court reservations with real-time availability. | Next.js, Node.js, Prisma, Supabase, Firebase, Tailwind CSS | [Live](https://indoor-ace-nine.vercel.app/) |
+| **Footy Insights**<br/><sub>Football analytics</sub> | Live match data, football statistics, and AI-generated insights. | React, REST APIs, Firebase, MongoDB | [Live](https://footy-insights-football.vercel.app/) |
+| **Rental Management System**<br/><sub>Car rental platform</sub> | Fleet management, rental agreements, invoicing, vendor payouts, expenses, payroll, and financial reporting. | React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | Client project |
+| **Bersih Clean**<br/><sub>Laundry management</sub> | Customer-facing laundry orders and internal operational workflows. | MongoDB, Express.js, React, Node.js | Client project |
+| **Hisaab Kitab**<br/><sub>Personal finance PWA</sub> | Mobile-first tracking of income, expenses, and savings goals. | Next.js, Supabase, PWA | Personal project |
 
 <sub>Some client projects are private or covered by NDA.</sub>
 
----
+## Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,supabase,firebase,git,vercel&perline=14" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Prisma, Supabase, Firebase, Git, Vercel" />
+</p>
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, SQL, HTML5, CSS3 |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, JWT authentication |
+| **Data** | PostgreSQL, MongoDB, Prisma, Supabase, Firebase |
+| **Tools and deployment** | Git, GitHub, Vercel, Render |
+| **AI-assisted development** | Claude Code, Cursor, GitHub Copilot |
 
 ## Experience
 
-<details open>
-<summary><b>Full Stack Software Developer</b> · Remote Client Projects · <i>Nov 2025 – Present</i></summary>
-
-<br/>
-
+### Full Stack Software Developer · Remote Client Projects
+*November 2025 – Present*
 - Develop and maintain production ERP, e-commerce, and laundry management applications
 - Design database schemas and build scalable REST APIs with responsive frontends
 - Implement authentication, role-based access control, business workflows, and third-party integrations
-- Own features from development through production deployment
-- Work directly with clients through iterative feedback and delivery cycles
+- Own features from development through production deployment, working directly with clients through iterative delivery
 
-</details>
-
-<details>
-<summary><b>Software Development Intern</b> · Jazba Innovations, Islamabad · <i>Jul 2025 – Aug 2025</i></summary>
-
-<br/>
-
+### Software Development Intern · Jazba Innovations, Islamabad
+*July 2025 – August 2025*
 - Integrated Webpack and Tailwind CSS into the frontend development pipeline
-- Contributed through Git pull requests and code reviews
-- Collaborated with cross-functional teams using Agile/Scrum practices
+- Contributed through Git pull requests and code reviews in an Agile/Scrum team
 
-</details>
+## Education and Certifications
 
----
-
-## Achievements & Certifications
-
-| Recognition | Awarded By | Year |
+| | | |
 |---|---|---|
-| Appreciation Award — HealthSync | NUST COMPPEC | 2026 |
-| 3rd Position — Final Year Project Open House | Bahria University | 2026 |
-| Generative AI: Beyond the Chatbot | Google | 2025 |
-
----
+| **BS Software Engineering** | Bahria University, Islamabad | 2026 |
+| **Generative AI: Beyond the Chatbot** | Google | 2025 |
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake.svg" width="100%" />
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/moosakhalil/moosakhalil/output/github-snake.svg" width="100%" />
   </picture>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <i>Building products. Solving problems. Continuously learning.</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:3B4261,100:1A1B27&height=120&section=footer&animation=twinkling" alt="Footer" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moosakhalil&theme=github-dark&hide_border=true">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=moosakhalil&theme=default&hide_border=true" />
+  </picture>
+</p>
