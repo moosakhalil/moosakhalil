@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="./award-banner.svg" width="100%" alt="Appreciation Award (HealthSync, NUST COMPPEC 2026) and 3rd Position (Bahria University FYP Open House 2026)" />
+
 
 </div>
 
