@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Moosa Khalil 👋
 
-### Software Engineer | Full Stack Developer | AI-Driven Development
+### 💻 Software Engineer | Full Stack Developer | AI-Driven Development
 
-I’m a Software Engineer passionate about building scalable, production-ready web applications and solving real-world problems through technology.
+I'm a Software Engineer passionate about building scalable, production-ready web applications and solving real-world problems through technology.
 
 I specialize in full-stack development, working across frontend, backend, databases, APIs, and AI-integrated applications. I enjoy turning ideas into functional products, taking ownership from system architecture to deployment.
 
@@ -14,28 +14,25 @@ I specialize in full-stack development, working across frontend, backend, databa
 - 🎓 **Education:** BS Software Engineering — Bahria University, Islamabad (2026).
 - 👯 **Open to:** Full Stack Development, Software Engineering & AI-driven projects.
 - 💬 **Ask me about:** React, Next.js, Node.js, REST APIs, PostgreSQL, Prisma & AI integration.
-- 📫 **Reach me:** moosamughal21@gmail.com
+- 📫 **Email:** [moosamughal21@gmail.com](mailto:moosamughal21@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-**Languages**
- 
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Databases**
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,8 +41,7 @@ I specialize in full-stack development, working across frontend, backend, databa
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**AI & Development Tools**
-
+### Tools & AI Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -55,40 +51,63 @@ I specialize in full-stack development, working across frontend, backend, databa
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **HealthSync** | Intelligent telehealth and remote patient monitoring platform with Fitbit integration and real-time heart-rate tracking. 🏆 NUST COMPPEC Appreciation Award. | Next.js, Supabase, Prisma, PostgreSQL |
-| **IndoorAce** | Indoor sports booking platform for cricket, futsal and padel facilities. | Next.js, Node.js, Prisma, Supabase |
-| **Footy Insights** | Football statistics platform featuring live scores, match information and AI-powered insights. | React.js, REST APIs, Firebase |
-| **Hisaab Kitab** | Personal finance management PWA for tracking income, expenses, savings and financial goals. | Next.js, Supabase, PWA |
-| **Rental Management System** | Full-stack car rental management solution covering fleet management, agreements, invoicing, expenses and financial reporting. | React.js, Node.js, Express, MongoDB |
-| **Bersih Clean** | Laundry service management platform with customer-facing and operational workflows. | MERN Stack |
+### 🏥 HealthSync — Intelligent Telehealth & Remote Patient Monitoring
+An intelligent telehealth platform featuring real-time heart-rate monitoring through Fitbit integration, patient and clinician dashboards, appointments, and AI-powered health insights.
 
-**Live Projects:**
+**Technologies:** Next.js, Supabase, Prisma, PostgreSQL
 
-- 🌐 [HealthSync](https://health-sync.live/)
-- 🏏 [IndoorAce](https://indoor-ace-nine.vercel.app/)
-- ⚽ [Footy Insights](https://footy-insights-football.vercel.app/)
-- 💼 [Portfolio Website](https://moosa-khalil-portfolio.vercel.app/)
+🏆 NUST COMPPEC Appreciation Award | 🥉 3rd Position — Bahria University FYP Open House 2026
+
+🔗 [Live Demo](https://health-sync.live/)
+
+### 🏏 IndoorAce — Indoor Sports Booking Platform
+A sports facility booking platform designed to simplify cricket, futsal, and padel court reservations with real-time availability and streamlined booking workflows.
+
+**Technologies:** Next.js, Node.js, Prisma, Supabase, Firebase, Tailwind CSS
+
+🔗 [Live Demo](https://indoor-ace-nine.vercel.app/)
+
+### ⚽ Footy Insights — Football Statistics Platform
+A football analytics platform providing live match information, football statistics, and AI-powered insights.
+
+**Technologies:** React.js, REST APIs, Firebase, MongoDB
+
+🔗 [Live Demo](https://footy-insights-football.vercel.app/)
+
+### 💰 Hisaab Kitab — Personal Finance Management
+A mobile-first personal finance PWA designed for tracking income, expenses, savings goals, and financial activities.
+
+**Technologies:** Next.js, Supabase, PWA
+
+### 🚗 Rental Management System — Car Rental Platform
+A full-stack rental management system covering fleet management, rental agreements, invoicing, owner/vendor payouts, expenses, salaries, and financial reporting.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
+
+### 🧺 Bersih Clean — Laundry Management Platform
+A laundry services management application designed to streamline customer-facing services and operational workflows.
+
+**Technologies:** MERN Stack, MongoDB, Express.js, React.js, Node.js
 
 *Some client projects and repositories are private or covered by NDA.*
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
 **Full-Stack Software Developer | Remote Client Projects**
 
 *November 2025 – Present*
 
-- Developing and maintaining production ERP, e-commerce and laundry management applications.
-- Building scalable REST APIs, database schemas and responsive frontend interfaces.
-- Implementing authentication, access control, business workflows and third-party integrations.
+- Developing and maintaining production ERP, e-commerce, and laundry management applications.
+- Building scalable REST APIs, database schemas, and responsive frontend interfaces.
+- Implementing authentication, access control, business workflows, and third-party integrations.
 - Managing features from development through production deployment.
+- Collaborating directly with clients through iterative feedback and delivery cycles.
 
-**Software Development Intern | Jazba Innovations**
+**Software Development Intern | Jazba Innovations, Islamabad**
 
 *July 2025 – August 2025*
 
@@ -98,36 +117,53 @@ I specialize in full-stack development, working across frontend, backend, databa
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-- 🥇 Appreciation Award — NUST COMPPEC for HealthSync.
+- 🏅 Appreciation Award — NUST COMPPEC for HealthSync.
 - 🥉 3rd Position — Bahria University Final Year Project Open House 2026.
 - 📜 Google — Generative AI: Beyond the Chatbot.
 - 🚀 Built and deployed multiple full-stack applications.
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosakhalil&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moosakhalil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosakhalil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moosakhalil&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=moosakhalil&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=moosakhalil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring new opportunities in software engineering and AI.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moosadev/)
-- 🌐 [Portfolio](https://moosa-khalil-portfolio.vercel.app/)
-- 🐙 [GitHub](https://github.com/moosakhalil)
-- 📧 [Email](mailto:moosamughal21@gmail.com)
+<p align="center">
+  <a href="https://github.com/moosakhalil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/moosadev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://moosa-khalil-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:moosamughal21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Building products, solving problems, and continuously learning.*
+<p align="center">
+  <i>Building products. Solving problems. Continuously learning.</i>
+</p>
 
-**Muhammad Moosa Khalil**
+<p align="center">
+  ⭐ From <a href="https://github.com/moosakhalil">Muhammad Moosa Khalil</a>
+</p>
