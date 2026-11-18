@@ -65,7 +65,7 @@ I build production-ready web applications end to end, from database design and R
 | **Backend** | Node.js, Express.js, REST APIs, JWT authentication |
 | **Data** | PostgreSQL, MongoDB, Prisma, Supabase, Firebase |
 | **Tools and deployment** | Git, GitHub, Vercel, Render |
-| **AI-assisted development** | Claude Code, Cursor, GitHub Copilot |
+| **AI-assisted development** | Claude Code, Cursor, GitHub Copilot,Windsurf |
 
 ## Experience
 
