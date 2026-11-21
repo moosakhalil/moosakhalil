@@ -27,12 +27,13 @@ I build production-ready web applications end to end, from database design and R
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| **HealthSync**<br/><sub>Telehealth and remote patient monitoring</sub> | Real-time heart-rate monitoring via Fitbit, patient and clinician dashboards, appointments, and AI-powered health insights. Final-year project, award-winning. | Next.js, Supabase, Prisma, PostgreSQL | [Live](https://health-sync.live/) |
-| **IndoorAce**<br/><sub>Indoor sports booking</sub> | Cricket, futsal, and padel court reservations with real-time availability. | Next.js, Node.js, Prisma, Supabase, Firebase, Tailwind CSS | [Live](https://indoor-ace-nine.vercel.app/) |
-| **Footy Insights**<br/><sub>Football analytics</sub> | Live match data, football statistics, and AI-generated insights. | React, REST APIs, Firebase, MongoDB | [Live](https://footy-insights-football.vercel.app/) |
-| **Rental Management System**<br/><sub>Car rental platform</sub> | Fleet management, rental agreements, invoicing, vendor payouts, expenses, payroll, and financial reporting. | React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | Client project |
-| **Hisaab Kitab**<br/><sub>Personal finance PWA</sub> | Mobile-first tracking of income, expenses, and savings goals. | Next.js, Supabase, PWA | Personal project |
-<sub>Some client projects are private or covered by NDA.</sub>
+| **HealthSync** *(Telehealth & RPM)* | Real-time heart-rate monitoring via Fitbit, patient and clinician dashboards, appointments, and AI-powered health insights. Final-year project, award-winning. | Next.js, Supabase, Prisma, PostgreSQL | [Live](https://health-sync.live/) |
+| **IndoorAce** *(Indoor Sports Booking)* | Cricket, futsal, and padel court reservations with real-time availability. | Next.js, Node.js, Prisma, Supabase, Firebase, Tailwind CSS | [Live](https://indoor-ace-nine.vercel.app/) |
+| **Footy Insights** *(Football Analytics)* | Live match data, football statistics, and AI-generated insights. | React, REST APIs, Firebase, MongoDB | [Live](https://footy-insights-football.vercel.app/) |
+| **Rental Management System** *(Car Rental Platform)* | Fleet management, rental agreements, invoicing, vendor payouts, expenses, payroll, and financial reporting. | React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | Client Project |
+| **Hisaab Kitab** *(Personal Finance PWA)* | Mobile-first tracking of income, expenses, and savings goals. | Next.js, Supabase, PWA | Personal Project |
+
+*Some client projects are private or covered by NDA.*
 
 ## GitHub Activity
 
